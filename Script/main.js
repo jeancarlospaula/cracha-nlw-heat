@@ -2,8 +2,8 @@ const socialMediaLinks = {
     github: "jeancarlospaula",
     youtube: "channel/UCCNJ6S2jGdfNtPDBUC8KEoQ",
     instagram: "jean.carlospaula",
-    facebook: "profile.php?id=100011337984100",
-    twitter: "JeanTutors"
+    facebook: "#",
+    twitter: "#"
 }
 
 function changeSocialMediaLinks() {
